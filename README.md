@@ -63,7 +63,7 @@ Prerequisites
   Microsoft Excel (2016 or later recommended)
 # Instructions
 1. Clone the repository to your local machine:
-git clone https://github.com/Profbla2020/Raod-Accident-Dashboard-dashboard.git
+git clone https://github.com/Profbla2020/Raod-Accident-Dashboard-.git
 2. Navigate to the project directory:
    cd road-accident-dashboard
 3. Open the Road_Accident_Dashboard.xlsx file using Microsoft Excel.
